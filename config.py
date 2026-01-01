@@ -1,0 +1,1 @@
+REG_PATH = r"Software\ZhihuishuAutoLogin"
